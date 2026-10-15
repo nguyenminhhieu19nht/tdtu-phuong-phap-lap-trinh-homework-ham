@@ -1,6 +1,6 @@
 //Nguyễn Minh Hiếu
 //MSSV: 52600480
-//Bai tap mang
+//Bai tap ham
 
 #include <stdio.h>
 #include <math.h>
